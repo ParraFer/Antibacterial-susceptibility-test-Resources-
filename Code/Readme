@@ -1,1 +1,1 @@
-
+The Code_Antibacterial_Susceptibility_Test.ipynb file contains the Python code used to measure the inhibition halo with the neural net. For the algorithm to work properly, images must show a portion of the sensitive and bacterial growth regions. In addition, it is crucial to adjust the value of the factor, which corresponds to the diameter of the visible area under the microscope in pixels. This adjustment is essential to convert the measured distance to millimeters accurately.
