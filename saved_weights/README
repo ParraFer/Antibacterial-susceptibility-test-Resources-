@@ -1,0 +1,1 @@
+In this folder, you will find the pre-trained models required for measuring the inhibition halo in images captured under a microscope. These models correspond to the YOLO neural networks utilized in the code
