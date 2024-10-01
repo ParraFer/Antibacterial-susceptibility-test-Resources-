@@ -1,1 +1,1 @@
-URL Test part: https://drive.google.com/file/d/1bwSC5zB7TK5j7P0t28H7Tmmv6jRyXqBa/view?usp=drive_link
+In this folder, you will find the dataset intended for the training and testing of the neural network. The train_data file contains a total of 74 images, while the test_data file includes 78 images. Additionally, the train_dataAugmentation file represents the augmented training data, resulting in a total of 219 images available for the neural network training process.
