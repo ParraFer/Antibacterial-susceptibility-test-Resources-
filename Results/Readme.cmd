@@ -1,1 +1,1 @@
-
+In the file AntibacterialSusceptibilityTest(Results).pdf, you will find the complete results of the inhibition halo measurements. This document includes all test images, offering a comprehensive view of the antibacterial susceptibility test results obtained using our algorithm.
