@@ -14,4 +14,4 @@ This repository contains the resources used for developing and validating a deep
    Contains the complete outcomes of the antibacterial susceptibility tests, including detailed analyses, quantitative metrics, and visual representations of inhibition halo measurements.
 
    *Ecoli_test/
-   This folder contains exploratory results obtained when testing the YOLOv8-based model on seven microscopic images of Escherichia coli. Since the model was trained exclusively on Staphylococcus aureus, the segmentation quality was not sufficiently precise. These results highlight the need to retrain the model with species-specific datasets or to develop dedicated models for each bacterium.
+   This folder contains exploratory results obtained when testing the YOLOv8-based model on microscopic images of Escherichia coli. Since the model was trained exclusively on Staphylococcus aureus, the segmentation quality was not sufficiently precise. These results highlight the need to retrain the model with species-specific datasets or to develop dedicated models for each bacterium.
